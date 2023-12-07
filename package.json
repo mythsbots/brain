@@ -1,0 +1,23 @@
+{
+  "name": "optimum",
+  "version": "1.0.0",
+  "description": "An all-in-one Discord bot.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mythsbots/Optimum.git"
+  },
+  "author": "Myth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mythsbots/Optimum/issues"
+  },
+  "homepage": "https://github.com/mythsbots/Optimum#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "ffmpeg": "^0.0.4"
+  }
+}
