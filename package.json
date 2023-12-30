@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mythsbots/Optimum.git"
+    "url": "git+https://github.com/mythsbots/brain.git"
   },
   "author": "Myth",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mythsbots/Optimum/issues"
+    "url": "https://github.com/mythsbots/brain/issues"
   },
-  "homepage": "https://github.com/mythsbots/Optimum#readme",
+  "homepage": "https://github.com/mythsbots/brain#readme",
   "dependencies": {
     "discord.js": "^14.14.1",
     "ffmpeg": "^0.0.4"
